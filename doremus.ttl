@@ -2600,6 +2600,10 @@ owl:SymmetricObjectProperty rdf:type owl:Class .
 #    Individuals
 #################################################################
 
+###  http://data.doremus.org/ontology#E200_Harmonizer
+mus:E200_Harmonizer rdf:type owl:NamedIndividual .
+
+
 ###  http://data.doremus.org/ontology#U83_has_relative_key
 mus:U83_has_relative_key rdf:type owl:NamedIndividual ,
                                   owl:SymmetricObjectProperty .
